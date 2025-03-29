@@ -3,7 +3,9 @@ Recently I found those pages(till now I thought the code was lost I know it's no
 
 Report Card Management System in C++
  
+
  📌Description
+
 The Report Card Management System is a console-based C++ application that allows users to add, search, and view student report cards. It stores student records including marks in multiple subjects, calculates percentages, and determines pass/fail status. The program uses file handling to save and retrieve student data for future use.
 
 🚀 Features
