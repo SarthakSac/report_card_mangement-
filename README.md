@@ -1,5 +1,6 @@
 This code originates from my early days of coding and was submitted as a mandatory project for my Class XII coursework. While some tweaks were necessary to make it functional, the majority of the code remains unchanged from its initial design. It was first conceptualized on paper using my course book, evolving from an abstract design to a structured implementation, incorporating OOP principles and a modular approach along the way.
 Recently I found those pages(till now I thought the code was lost I know it's not very sophisticated with graphic interface but still I was very deligted to find the old pages)
+
 Report Card Management System in C++
  
  📌Description
