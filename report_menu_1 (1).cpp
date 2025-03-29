@@ -70,7 +70,7 @@ void Check_view() {
 void AddReport() {
     char choice;
     fstream n, h;
-
+    flag=0;
     start:
     n.open("rep", ios::app);
 
@@ -133,7 +133,7 @@ void AddReport() {
 
 void search() {
     int choice;
-
+    flag=0;
     start:
     cout << "\n Check Only(1)";
     cout << "\n Check and view(2)";
